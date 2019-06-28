@@ -1,11 +1,20 @@
 # stelcoin-testnet
 
-Stelcoin Test Network
+The Stelcoin Test Network is for the Stellenbosch Fintech Innovation community to learn and build the next generation of financial technology solutions.
+
+
+## Quick Links
+
+Network Status | Block Explorer | Wallet Explorer |  Social Faucet
+:---: | :---: | :---: | :---:
+[http://102.133.165.185:8080](http://102.133.165.185:8080/) | Coming Soon | [http://102.133.165.185:8081](http://102.133.165.185:8081/) | [http://102.133.165.185:8082](http://102.133.165.185:8082/)
+
 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you to be able to make Stelcoin transactions on the testnet. You will be able to create your own wallet, safely store the private keys, get some Stelcoin, make a valid transaction on the network and view the transaction on the Wallet Explorer.
+
 
 ### Prerequisites
 
