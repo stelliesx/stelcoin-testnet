@@ -1,6 +1,10 @@
 # stelcoin-testnet
 
-The Stelcoin Test Network is for the Stellenbosch Fintech Innovation community to learn and build the next generation of financial technology solutions.
+The Stelcoin Test Network is built by [StelliesX](https://stellies.money), a community of fintech innovators to build and test the next generation of financial technology solutions.
+
+
+[Stelcoin](https://stelcoin.co.za) is a platform that connects banks, payments systems, and people. Built to move money quickly, reliably, and at almost no cost.
+
 
 
 ## Quick Links
@@ -13,10 +17,19 @@ Network Status | Block Explorer | Wallet Explorer |  Social Faucet
 
 ## Getting Started
 
-These instructions will get you to be able to make Stelcoin transactions on the testnet. You will be able to create your own wallet, safely store the private keys, get some Stelcoin, make a valid transaction on the network and view the transaction on the Wallet Explorer.
+These instructions will get you to be able to make Stelcoin transactions on the testnet. You will be able to create your own wallet, safely store its private keys, get some Stelcoin, make a valid transaction on the network and view the transaction on the Wallet Explorer.
 
+**********
+
+
+ ** _### IMPORTANT ###_**
+
+
+_Do NOT send ether from the Main Ethereum Network to any address on the Stelcoin Network as you will loose your ether. Only send from addresses on the Stelcoin Testnet_
+**********
 
 ### Prerequisites
+
 
 What things you need to install the software and how to install them
 
